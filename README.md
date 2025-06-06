@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,4,20&height=200&section=header&text=TOKYO%20NIGHTS&fontSize=50&fontColor=FF0080&animation=fadeIn&fontAlignY=35&desc=Digital%20Architect%20%7C%20AI%20Engineer%20%7C%20Transformer%20Specialist&descSize=18&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,4,20&height=200&section=header&text=TECH%20WARRIORS&fontSize=50&fontColor=FF0080&animation=fadeIn&fontAlignY=35&desc=Digital%20Architect%20%7C%20AI%20Engineer%20%7C%20Transformer%20Specialist&descSize=18&descAlignY=55"/>
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
