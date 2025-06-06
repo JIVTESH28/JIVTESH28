@@ -8,7 +8,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About Me </b>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" align="center">
 
 🚀 **Mission:** Architecting autonomous AI ecosystems that revolutionize human-machine collaboration through intelligent multi-agent orchestration
 
@@ -125,82 +125,6 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Flagship Projects
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=🚀+Innovation+in+Action;⚡+Building+Tomorrow's+AI+Today;🔥+Open+Source+%26+Cutting+Edge" alt="Projects Header" />
-</div>
-
-<div align="center">
-
-### 🤖 **Multi-Agent AI Orchestra**
-*Next-generation distributed AI system with autonomous agent coordination*
-<br>
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/JIVTESH28/your-multi-agent-project)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 🧠 **RAG Pipeline Engine**
-*High-performance retrieval-augmented generation with vector optimization*
-<br>
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/JIVTESH28/your-rag-project)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC382C?style=for-the-badge&logoColor=white)
-
----
-
-### ⚡ **Real-time AI Orchestrator**
-*Blazing-fast microservices architecture for AI workload distribution*
-<br>
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/JIVTESH28/your-orchestrator-project)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
----
-
-### 🌐 **Vision-Driven Agent Framework**
-*Computer vision meets autonomous decision-making in production environments*
-<br>
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/JIVTESH28/your-vision-project)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
----
-
-### 🔗 **LangChain AI Connector**
-*Seamless integration layer for diverse AI model orchestration*
-<br>
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/JIVTESH28/your-langchain-project)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
----
-
-### 🔮 **Experimental AI Lab**
-*Cutting-edge research implementations and proof-of-concepts*
-<br>
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/JIVTESH28/your-experimental-project)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=🔍+Explore+repositories+for+detailed+documentation;⭐+Star+if+you+find+them+useful;🤝+Contributors+and+feedback+welcome!" alt="Projects Footer" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
----
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🙏;Let's+build+the+future+together+🚀;Happy+coding!+💻" alt="Footer" />
