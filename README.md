@@ -4,51 +4,71 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=AI+Agent+Architect+%F0%9F%A4%96;Multi-Agent+Systems+Engineer+%F0%9F%9A%80;Building+Next-Gen+AI+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About Me </b>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width = "900">
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50%" valign="top">
+        <div align="left">
+          
+📡 **`> Initializing AI_Developer.exe...`**
+```javascript
+const jivtesh = {
+    mission: "Architecting autonomous AI ecosystems 🚀",
+    specialization: "Multi-Agent Systems & RAG Pipelines",
+    currentFocus: "Real-time AI orchestration",
+    languages: ["Rust", "Go", "Python", "TypeScript"],
+    passion: "Building AI that thinks & evolves 🧠",
+    location: "India 🇮🇳",
+    status: "Pushing boundaries of AI possibilities"
+};
 
-🚀 **Mission:** Architecting autonomous AI ecosystems that revolutionize human-machine collaboration through intelligent multi-agent orchestration
+console.log("Welcome to my digital realm! ⚡");
+```
 
-🧠 **Specialization:** Crafting next-generation AI infrastructure with cutting-edge RAG pipelines, vector databases, and distributed agent networks
+🎯 **Current Quest:**
+- 🔬 Pioneering emergent intelligence patterns
+- 🌐 Building scalable AI reasoning frameworks  
+- ⚡ Crafting next-gen AI infrastructure
+- 🤖 Creating intelligent multi-agent networks
+- 🔥 Optimizing with Rust's blazing performance
 
-⚡ **Innovation Focus:** Pioneering real-time AI orchestration using Rust's blazing performance and Go's concurrency mastery
+💡 **Philosophy:** *"Building AI that doesn't just compute—it thinks, adapts, and evolves alongside human creativity"*
 
-🔬 **Research Interests:** Emergent intelligence patterns, agent-to-agent communication protocols, and scalable AI reasoning frameworks
-
-🌟 **Philosophy:** Building AI that doesn't just compute—it thinks, adapts, and evolves alongside human creativity
-
-🎯 **Current Quest:** Pushing the boundaries of what's possible with multi-modal AI agents in production environments
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
+          <br><br>
+          <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=JIVTESH28&count_private=true&theme=tokyonight&border_radius=20&ring=A9FEF7&fire=7F3FBF&currStreakLabel=A9FEF7" width="400"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Let's Connect & Collaborate
 
-<p align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
   <b>Building the Future of AI Together</b>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-</p>
+</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://linkedin.com/in/jivtesh-sulochan-45a39a330">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-          <br><sub><b>Professional Network</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:jivtesh28@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-          <br><sub><b>Direct Contact</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://linkedin.com/in/jivtesh-sulochan-45a39a330">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:jivtesh28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" alt="Email"/>
+  </a>
 </div>
 
 <div align="center">
@@ -59,44 +79,40 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Tech Arsenal </b>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<div align="center">
 
-### 🔥 Core Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,rust,java,typescript,nodejs" />
-</div>
+### 🔥 **Core Programming Languages**
+<img src="https://skillicons.dev/icons?i=go,python,rust,java,typescript,nodejs&theme=dark" />
 
-### 🌐 Frameworks & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,graphql,nextjs,tailwind,streamlit" />
-</div>
+### 🌐 **Frameworks & Development Tools**  
+<img src="https://skillicons.dev/icons?i=fastapi,graphql,nextjs,tailwind,streamlit&theme=dark" />
 
-### 🗄️ Databases & Storage
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,postgresql" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=white" alt="ArangoDB"/>
-  <img src="https://img.shields.io/badge/Qdrant-DC382C?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAJkSURBVHjarJNLaxNBGIafmQQSG9OmXqpVwYOIFy6KBw9evHjw4kGQehAP4kGwB0/ixYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAEwYMHL148eBAE&logoColor=white" alt="Qdrant"/>
-</div>
+### 🗄️ **Databases & Vector Storage**
+<img src="https://skillicons.dev/icons?i=mongodb,redis,postgresql&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=black" alt="ArangoDB"/>
+<img src="https://img.shields.io/badge/Qdrant-DC382C?style=for-the-badge&logo=vector&logoColor=white" alt="Qdrant"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
 
-### 🤖 AI/ML & Data Science
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy"/>
-  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" alt="MLflow"/>
-</div>
+### 🤖 **AI/ML & Data Science Stack**
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+<br>
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" alt="MLflow"/>
 
-### ⚙️ DevOps & Infrastructure
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,cmake" />
-  <img src="https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425" alt="Gitea"/>
-  <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green" alt="CUDA"/>
-  <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="NVIDIA"/>
+### ⚙️ **DevOps & Infrastructure**
+<img src="https://skillicons.dev/icons?i=docker,git,github,cmake&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/CUDA-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green" alt="CUDA"/>
+<img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -104,32 +120,63 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JIVTESH28&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JIVTESH28&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JIVTESH28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=7F3FBF&text_color=ffffff&ring_color=A9FEF7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIVTESH28&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=JIVTESH28&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=JIVTESH28&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-</div>
-
-<div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIVTESH28&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>Activity Graph</b>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JIVTESH28&custom_title=Jivtesh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=JIVTESH28&theme=tokyonight&hide_border=true&background=0D1117&ring=A9FEF7&fire=7F3FBF&currStreakLabel=A9FEF7" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JIVTESH28&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=ffffff" width="49%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>Contribution Graph</b>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🙏;Let's+build+the+future+together+🚀;Happy+coding!+💻" alt="Footer" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JIVTESH28&custom_title=Jivtesh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=A9FEF7&line=7F3FBF&point=A9FEF7&area_color=7F3FBF&title_color=A9FEF7&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> **Latest Projects & Contributions**
+
+<div align="center">
+  <a href="https://github.com/JIVTESH28">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JIVTESH28&repo=AI-Agent-Framework&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=7F3FBF&text_color=ffffff" />
+  </a>
+  <a href="https://github.com/JIVTESH28">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JIVTESH28&repo=Multi-Agent-RAG-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=7F3FBF&text_color=ffffff" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> **Random Dev Quote**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Alan%20Kay" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🙏;Let's+build+the+future+together+🚀;Happy+coding!+💻;May+the+code+be+with+you+⚡" alt="Footer" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JIVTESH28&label=Profile%20Views&color=7F3FBF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/JIVTESH28?label=Followers&style=for-the-badge&color=A9FEF7&labelColor=7F3FBF" alt="Followers" />
 </div>
