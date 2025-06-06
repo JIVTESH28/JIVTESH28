@@ -8,7 +8,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About Me </b>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width = "900">
 
 🚀 **Mission:** Architecting autonomous AI ecosystems that revolutionize human-machine collaboration through intelligent multi-agent orchestration
 
