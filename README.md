@@ -1,14 +1,19 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there! I'm Jivtesh Sulochan
+<!-- Hey there greeting -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey there! I'm Jivtesh Sulochan
+</h1>
 
-<div align="center">
-  
-  <!-- Cyberpunk Intro Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+DIGITAL+ARCHITECT+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%F0%9F%A4%96+AI+AGENT+ARCHITECT+%7C+TRANSFORMER+SPECIALIST+%F0%9F%9A%80;%E2%9A%A1+BUILDING+NEXT-GEN+AI+FROM+INDIA+%F0%9F%87%AE%F0%9F%87%B3+%E2%9A%A1;%E2%96%BC%E2%96%BC%E2%96%BC+WELCOME+TO+THE+CYBERNET+%E2%96%BC%E2%96%BC%E2%96%BC;%F0%9F%8C%83+LET'S+CREATE+DIGITAL+MAGIC+%F0%9F%8C%83" alt="Cyberpunk Intro" />
-  
-  <!-- Neon Glow Divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-  
-</div>
+<!-- Cyberpunk Intro Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+DIGITAL+ARCHITECT+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%F0%9F%A4%96+AI+AGENT+ARCHITECT+%7C+TRANSFORMER+SPECIALIST+%F0%9F%9A%80;%E2%9A%A1+BUILDING+NEXT-GEN+AI+FROM+INDIA+%F0%9F%87%AE%F0%9F%87%B3+%E2%9A%A1;%E2%96%BC%E2%96%BC%E2%96%BC+WELCOME+TO+THE+CYBERNET+%E2%96%BC%E2%96%BC%E2%96%BC;%F0%9F%8C%83+LET'S+CREATE+DIGITAL+MAGIC+%F0%9F%8C%83" alt="Cyberpunk Typing Intro"/>
+</p>
+
+<!-- Neon Glow Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80%"/>
+</p>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
