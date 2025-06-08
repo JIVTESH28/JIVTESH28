@@ -4,15 +4,16 @@
   Hey there! I'm Jivtesh Sulochan
 </h1>
 
-<!-- Advanced Intro Animation -->
+<!-- Cyberpunk Intro Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&color=6C63FF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+DIGITAL+ARCHITECT+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%F0%9F%A4%96+AI+AGENT+ARCHITECT+%7C+TRANSFORMER+SPECIALIST+%F0%9F%9A%80;%E2%9A%A1+BUILDING+NEXT-GEN+AI+FROM+INDIA+%F0%9F%87%AE%F0%9F%87%B3+%E2%9A%A1;%E2%96%BC%E2%96%BC%E2%96%BC+WELCOME+TO+THE+NEURAL+NEXUS+%E2%96%BC%E2%96%BC%E2%96%BC;%F0%9F%8C%83+LET'S+CREATE+DIGITAL+EXCELLENCE+%F0%9F%8C%83" alt="Advanced Typing Intro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+DIGITAL+ARCHITECT+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%F0%9F%A4%96+AI+AGENT+ARCHITECT+%7C+TRANSFORMER+SPECIALIST+%F0%9F%9A%80;%E2%9A%A1+BUILDING+NEXT-GEN+AI+FROM+INDIA+%F0%9F%87%AE%F0%9F%87%B3+%E2%9A%A1;%E2%96%BC%E2%96%BC%E2%96%BC+WELCOME+TO+THE+CYBERNET+%E2%96%BC%E2%96%BC%E2%96%BC;%F0%9F%8C%83+LET'S+CREATE+DIGITAL+MAGIC+%F0%9F%8C%83" alt="Cyberpunk Typing Intro"/>
 </p>
 
-<!-- Professional Glow Divider -->
+<!-- Neon Glow Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80%"/>
 </p>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
