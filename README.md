@@ -213,7 +213,7 @@ console.log("Ready to architect the future with neural networks! 🔮⚡🤖");
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Connect to the Network
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💡+Open+to+AI+Research+Collaborations;🤝+Available+for+Consulting+%26+Speaking;🌐+Let's+Build+the+Digital+Future+Together!;🔮+Engineering+Excellence+from+India;🤖+Transforming+AI+one+model+at+a+time;⚡+Join+the+Neural+Revolution!" alt="Connect Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💡+Open+to+AI+Research+Collaborations;🌐+Let's+Build+the+Digital+Future+Together!;🔮+Engineering+Excellence+from+India;🤖+Transforming+AI+one+model+at+a+time;⚡+Join+the+Neural+Revolution!" alt="Connect Message" />
 </div>
 
 <div align="center">
