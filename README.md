@@ -89,6 +89,49 @@ console.log("Ready to architect the future with neural networks! 🔮⚡🤖");
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
+<!-- DOCARMOR-STATS:START -->
+## 📦 DocArmor — Live PyPI Stats
+
+<div align="center">
+
+<a href="https://pypi.org/project/docarmor/">
+  <img src="https://img.shields.io/pypi/v/docarmor?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI&color=3775A9" alt="PyPI Version"/>
+</a>
+<a href="https://pepy.tech/projects/docarmor">
+  <img src="https://img.shields.io/pepy/dt/docarmor?style=for-the-badge&logo=python&logoColor=white&label=Total%20Downloads&color=00C853" alt="Total Downloads"/>
+</a>
+<a href="https://pypistats.org/packages/docarmor">
+  <img src="https://img.shields.io/pypi/dm/docarmor?style=for-the-badge&logo=download&logoColor=white&label=Monthly&color=FF6D00" alt="Monthly Downloads"/>
+</a>
+<a href="https://pypistats.org/packages/docarmor">
+  <img src="https://img.shields.io/pypi/dw/docarmor?style=for-the-badge&logo=download&logoColor=white&label=Weekly&color=AA00FF" alt="Weekly Downloads"/>
+</a>
+<a href="https://pypistats.org/packages/docarmor">
+  <img src="https://img.shields.io/pypi/dd/docarmor?style=for-the-badge&logo=download&logoColor=white&label=Daily&color=2979FF" alt="Daily Downloads"/>
+</a>
+
+</div>
+
+<div align="center">
+
+| 📊 Metric | 📈 Count |
+|:---:|:---:|
+| 🏆 **All-Time Downloads** | **863** |
+| 📅 **Last 30 Days** | **288** |
+| 📆 **Last 7 Days** | **31** |
+| 🕐 **Last 24 Hours** | **0** |
+
+<sub>🤖 Auto-updated on August 18, 2026 at 07:35 PM IST via GitHub Actions</sub>
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/JIVTESH28/docarmor"><img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://pypi.org/project/docarmor/"><img src="https://img.shields.io/badge/Install-pip_install_docarmor-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="Install"/></a>
+  <a href="https://pepy.tech/projects/docarmor"><img src="https://img.shields.io/badge/Analytics-pepy.tech-00C853?style=for-the-badge&logo=python&logoColor=white" alt="Analytics"/></a>
+</div>
+<!-- DOCARMOR-STATS:END -->
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Arsenal
 
 <div align="center">
