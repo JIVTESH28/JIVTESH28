@@ -74,11 +74,11 @@ console.log("Ready to architect the future with neural networks! 🔮⚡🤖");
   
   <br><br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JIVTESH28&count_private=true&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=A9A9A9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A9A9A9" width="350"/>
+  <img src="https://streak-stats.demolab.com/?user=JIVTESH28&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=A9A9A9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A9A9A9" width="350"/>
   
   <br><br>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=JIVTESH28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3&title=Commits,Repositories,Stars,PullRequest,Issues,MultiLanguage" width="350"/>
+  <img src="https://ghchart.rshah.org/6C63FF/JIVTESH28" width="350" alt="GitHub Contribution Matrix"/>
 </div>
 
 </td>
@@ -191,10 +191,10 @@ console.log("Ready to architect the future with neural networks! 🔮⚡🤖");
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=JIVTESH28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=4ECDC4&text_color=A9A9A9&ring_color=6C63FF&include_all_commits=true&count_private=true&border_radius=15"/>
+        <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=JIVTESH28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=4ECDC4&text_color=A9A9A9&ring_color=6C63FF&include_all_commits=true&count_private=true&border_radius=15"/>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIVTESH28&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=A9A9A9&border_radius=15"/>
+        <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=JIVTESH28&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=A9A9A9&border_radius=15"/>
       </td>
     </tr>
   </table>
