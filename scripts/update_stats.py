@@ -57,6 +57,12 @@ def build_stats_section(pypistats, total_downloads):
     last_month = format_number(pypistats["last_month"]) if pypistats else "N/A"
     total = format_number(total_downloads)
 
+    # URL-encoded badge values
+    b_total = total.replace(",", "%2C")
+    b_month = last_month.replace(",", "%2C")
+    b_week = last_week.replace(",", "%2C")
+    b_day = last_day.replace(",", "%2C")
+
     section = f"""## 📦 DocArmor — Live PyPI Stats
 
 <div align="center">
@@ -65,16 +71,16 @@ def build_stats_section(pypistats, total_downloads):
   <img src="https://img.shields.io/pypi/v/docarmor?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI&color=3775A9" alt="PyPI Version"/>
 </a>
 <a href="https://pepy.tech/projects/docarmor">
-  <img src="https://img.shields.io/pepy/dt/docarmor?style=for-the-badge&logo=python&logoColor=white&label=Total%20Downloads&color=00C853" alt="Total Downloads"/>
+  <img src="https://img.shields.io/badge/Total%20Downloads-{b_total}-00C853?style=for-the-badge&logo=python&logoColor=white" alt="Total Downloads"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/pypi/dm/docarmor?style=for-the-badge&logo=download&logoColor=white&label=Monthly&color=FF6D00" alt="Monthly Downloads"/>
+  <img src="https://img.shields.io/badge/Monthly-{b_month}-FF6D00?style=for-the-badge&logo=download&logoColor=white" alt="Monthly Downloads"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/pypi/dw/docarmor?style=for-the-badge&logo=download&logoColor=white&label=Weekly&color=AA00FF" alt="Weekly Downloads"/>
+  <img src="https://img.shields.io/badge/Weekly-{b_week}-AA00FF?style=for-the-badge&logo=download&logoColor=white" alt="Weekly Downloads"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/pypi/dd/docarmor?style=for-the-badge&logo=download&logoColor=white&label=Daily&color=2979FF" alt="Daily Downloads"/>
+  <img src="https://img.shields.io/badge/Daily-{b_day}-2979FF?style=for-the-badge&logo=download&logoColor=white" alt="Daily Downloads"/>
 </a>
 
 </div>

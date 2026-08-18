@@ -98,16 +98,16 @@ console.log("Ready to architect the future with neural networks! 🔮⚡🤖");
   <img src="https://img.shields.io/pypi/v/docarmor?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI&color=3775A9" alt="PyPI Version"/>
 </a>
 <a href="https://pepy.tech/projects/docarmor">
-  <img src="https://img.shields.io/pepy/dt/docarmor?style=for-the-badge&logo=python&logoColor=white&label=Total%20Downloads&color=00C853" alt="Total Downloads"/>
+  <img src="https://img.shields.io/badge/Total%20Downloads-863-00C853?style=for-the-badge&logo=python&logoColor=white" alt="Total Downloads"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/pypi/dm/docarmor?style=for-the-badge&logo=download&logoColor=white&label=Monthly&color=FF6D00" alt="Monthly Downloads"/>
+  <img src="https://img.shields.io/badge/Monthly-288-FF6D00?style=for-the-badge&logo=download&logoColor=white" alt="Monthly Downloads"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/pypi/dw/docarmor?style=for-the-badge&logo=download&logoColor=white&label=Weekly&color=AA00FF" alt="Weekly Downloads"/>
+  <img src="https://img.shields.io/badge/Weekly-31-AA00FF?style=for-the-badge&logo=download&logoColor=white" alt="Weekly Downloads"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/pypi/dd/docarmor?style=for-the-badge&logo=download&logoColor=white&label=Daily&color=2979FF" alt="Daily Downloads"/>
+  <img src="https://img.shields.io/badge/Daily-0-2979FF?style=for-the-badge&logo=download&logoColor=white" alt="Daily Downloads"/>
 </a>
 
 </div>
@@ -121,7 +121,7 @@ console.log("Ready to architect the future with neural networks! 🔮⚡🤖");
 | 📆 **Last 7 Days** | **31** |
 | 🕐 **Last 24 Hours** | **0** |
 
-<sub>🤖 Auto-updated on August 18, 2026 at 07:35 PM IST via GitHub Actions</sub>
+<sub>🤖 Auto-updated on August 18, 2026 at 11:10 PM IST via GitHub Actions</sub>
 
 </div>
 
