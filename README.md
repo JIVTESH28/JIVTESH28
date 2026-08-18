@@ -1,93 +1,42 @@
-<!-- Hey there greeting -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hey there! I'm Jivtesh Sulochan
-</h1>
+<!-- Header Banner -->
+<h1 align="center">Jivtesh Sulochan</h1>
 
-<!-- Cyberpunk Intro Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+DIGITAL+ARCHITECT+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%F0%9F%A4%96+AI+AGENT+ARCHITECT+%7C+TRANSFORMER+SPECIALIST+%F0%9F%9A%80;%E2%9A%A1+BUILDING+NEXT-GEN+AI+FROM+INDIA+%F0%9F%87%AE%F0%9F%87%B3+%E2%9A%A1;%E2%96%BC%E2%96%BC%E2%96%BC+WELCOME+TO+THE+CYBERNET+%E2%96%BC%E2%96%BC%E2%96%BC;%F0%9F%8C%83+LET'S+CREATE+DIGITAL+MAGIC+%F0%9F%8C%83" alt="Cyberpunk Typing Intro"/>
+  <b>AI Agent Architect & Transformer Specialist</b>
 </p>
 
-<!-- Neon Glow Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Architecting+Autonomous+AI+Ecosystems;Building+High-Performance+Rust+%2B+Python+Systems;Engineering+Next-Gen+Transformer+Architectures" alt="Typing Banner"/>
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/jivtesh-sulochan-45a39a330"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:jivtesh28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://pypi.org/user/JIVTESH28"><img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI Profile"/></a>
+  <img src="https://img.shields.io/badge/Location-India%20🇮🇳-10B981?style=flat-square" alt="Location"/>
+</p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+<hr>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+## 📌 About Me
 
-### 🔮 The Neural Architect
+> **AI Agent Architect** specializing in multi-agent networks, high-performance document intelligence, and Rust-native neural infrastructure. I build AI systems that think, reason, and scale.
 
 ```typescript
-const jivtesh: AIEngineer = {
+const engineer = {
   name: "Jivtesh Sulochan",
-  title: "AI Agent Architect & Transformer Specialist",
-  location: "India 🇮🇳",
-  timezone: "GMT+5:30",
-  
-  mission: "Architecting autonomous AI ecosystems with transformers",
-  specialization: [
-    "Transformer Models 🤖",
-    "Multi-Agent Systems 🕸️",
-    "RAG Pipelines ⚡", 
-    "Real-time AI Orchestration 🎭",
-    "Web3 & DeFi Integration 🌐"
-  ],
-  
-  languages: ["Rust 🦀", "Go ⚡", "Python 🐍", "TypeScript 💙", "Solidity 💎"],
-  currentFocus: "Building AI that thinks, evolves & transforms 🧠",
-  
-  workingOn: [
-    "🔬 Emergent intelligence patterns with transformers",
-    "⚡ Next-gen AI infrastructure with multi-agents", 
-    "🤖 Intelligent multi-agent networks",
-    "🌐 Scalable AI reasoning frameworks",
-    "💎 Web3-integrated AI solutions",
-    "🔮 Neural-powered everything"
-  ],
-  
-  philosophy: "In neural networks we trust, in code we innovate 🧠",
-  status: "Online and pushing boundaries 🚀",
-  aiPassion: "Obsessed with attention mechanisms & neural architectures 🧠⚡"
+  role: "AI Agent Architect & Transformer Specialist",
+  stack: ["Rust 🦀", "Go ⚡", "Python 🐍", "TypeScript 💙", "Solidity 💎"],
+  focus: ["Emergent Intelligence", "Multi-Agent Orchestration", "Rust-Native RAG", "Web3 AI"],
+  location: "India 🇮🇳"
 };
-
-console.log("Ready to architect the future with neural networks! 🔮⚡🤖");
 ```
 
-### 🎯 Current Missions
-- 🧠 **Pioneering** transformer-based emergent AI behaviors 
-- ⚡ **Optimizing** with Rust's blazing performance for neural networks
-- 🌐 **Scaling** intelligent reasoning systems across digital landscapes
-- 🔥 **Creating** next-generation AI infrastructure for tomorrow
-- 💎 **Bridging** AI and Web3 for decentralized intelligence
+---
 
-</td>
-<td width="50%" valign="top">
+## 🛡️ Featured Open Source: `docarmor`
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Coding Animation"/>
-  
-  <br><br>
-  
-  <img src="https://raw.githubusercontent.com/JIVTESH28/JIVTESH28/main/profile-summary-card-output/tokyonight/3-stats.svg" width="350" alt="GitHub Stats"/>
-  
-  <br><br>
-  
-  <img src="https://ghchart.rshah.org/6C63FF/JIVTESH28" width="350" alt="GitHub Contribution Matrix"/>
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-</div>
+**DocArmor** is a high-performance document intelligence gateway and safety guardrail engine built in Rust with native PyO3 bindings for Python. It sits between raw document ingestion and downstream LLM/RAG pipelines to prevent system exploitation, Zip bombs, PII leaks, and unexpected API costs.
 
 <!-- DOCARMOR-STATS:START -->
 ## 📦 DocArmor — Live PyPI Stats
@@ -121,7 +70,7 @@ console.log("Ready to architect the future with neural networks! 🔮⚡🤖");
 | 📆 **Last 7 Days** | **31** |
 | 🕐 **Last 24 Hours** | **0** |
 
-<sub>🤖 Auto-updated on August 18, 2026 at 11:10 PM IST via GitHub Actions</sub>
+<sub>🤖 Auto-updated on August 18, 2026 at 11:14 PM IST via GitHub Actions</sub>
 
 </div>
 
@@ -132,60 +81,20 @@ console.log("Ready to architect the future with neural networks! 🔮⚡🤖");
 </div>
 <!-- DOCARMOR-STATS:END -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Arsenal
+---
 
-<div align="center">
+## 🛠️ Tech Arsenal
 
-### 💻 **Core Languages & Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=rust,go,python,typescript,java,nodejs,fastapi,nextjs&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=solidity&theme=dark" />
-</p>
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `Rust` • `Python` • `Go` • `TypeScript` • `Solidity` • `C++` |
+| **AI / Multi-Agent** | `PyTorch` • `HuggingFace Transformers` • `CrewAI` • `LangChain` • `LangGraph` • `SmolAgents` |
+| **Vector Storage** | `Qdrant` • `Pinecone` • `ChromaDB` • `Redis` • `PostgreSQL` • `MongoDB` |
+| **DevOps & Infrastructure** | `Docker` • `Kubernetes` • `AWS` • `FastAPI` • `Next.js` • `n8n` • `Web3.js` |
 
-### 🤖 **AI/ML & Transformer Ecosystem**
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-  <img src="https://img.shields.io/badge/🤗_Transformers-6C63FF.svg?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/LangChain-4ECDC4.svg?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/LangGraph-45B7D1.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/CrewAI-96CEB4.svg?style=for-the-badge&logo=robot&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/SmolAgents-FFEAA7.svg?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/scikit--learn-FF6B6B.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/OpenCV-74B9FF.svg?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/pandas-A29BFE.svg?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/numpy-FD79A8.svg?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117" />
-</p>
+---
 
-### 🗄️ **Databases & Vector Storage** 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis&theme=dark" />
-  <img src="https://img.shields.io/badge/Qdrant-6C63FF?style=for-the-badge&logo=vector&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Pinecone-4ECDC4?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/ArangoDB-45B7D1?style=for-the-badge&logo=arangodb&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/ChromaDB-96CEB4?style=for-the-badge&logo=database&logoColor=white&labelColor=0D1117" />
-</p>
-
-### 🔗 **Automation & Web3**
-<p>
-  <img src="https://img.shields.io/badge/n8n-FFEAA7?style=for-the-badge&logo=n8n&logoColor=black&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Web3.js-FF6B6B?style=for-the-badge&logo=web3dotjs&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Ethereum-74B9FF?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Hardhat-A29BFE?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0D1117" />
-</p>
-
-### ⚙️ **DevOps & Infrastructure**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github&theme=dark" />
-  <img src="https://img.shields.io/badge/CUDA-FD79A8.svg?style=for-the-badge&logo=nVIDIA&logoColor=white&labelColor=0D1117" />
-</p>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Digital Analytics
+## 📊 Analytics & Performance
 
 <div align="center">
   <table width="100%">
@@ -200,129 +109,14 @@ console.log("Ready to architect the future with neural networks! 🔮⚡🤖");
   </table>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JIVTESH28&custom_title=Neural%20Network%20Activity&bg_color=0D1117&color=6C63FF&line=4ECDC4&point=45B7D1&area_color=6C63FF&title_color=6C63FF&area=true&hide_border=true&radius=16" width="100%"/>
-</div>
+<br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-</div>
-
-## 🧠 **AI & Transformer Focus Areas**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🤖+Transformer+Architectures+%26+Attention+Mechanisms;🔗+Multi-Agent+Systems+%26+Orchestration;⚡+RAG+Pipelines+%26+Vector+Databases;🌐+Web3+%2B+AI+Integration;🇮🇳+Building+from+the+Heart+of+India!;🔮+Pushing+the+Boundaries+of+AI+Innovation!" alt="AI Focus" />
-</div>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-### 🤖 **Transformer Magic**
-- **Attention Mechanisms** ⚡
-- **BERT, GPT, T5 Variants** 🧠  
-- **Custom Architectures** 🔧
-- **Fine-tuning Strategies** 🎯
-- **Quantization & Optimization** ⚡
-
-</td>
-<td width="33%" align="center">
-
-### 🕸️ **Multi-Agent Systems**
-- **CrewAI Orchestration** 🎭
-- **LangGraph Workflows** 🔗
-- **SmolAgents Integration** 🤏
-- **Agent Communication** 📡
-- **Emergent Behaviors** 🌟
-
-</td>
-<td width="33%" align="center">
-
-### 💎 **Web3 + AI Fusion**
-- **Smart Contract AI** ⚡
-- **Decentralized Models** 🌐
-- **Blockchain Oracles** 🔮
-- **DeFi Automation** 💰
-- **NFT Intelligence** 🎨
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-</div>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Connect to the Network
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💡+Open+to+AI+Research+Collaborations;🌐+Let's+Build+the+Digital+Future+Together!;🔮+Engineering+Excellence+from+India;🤖+Transforming+AI+one+model+at+a+time;⚡+Join+the+Neural+Revolution!" alt="Connect Message" />
-</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/jivtesh-sulochan-45a39a330">
-    <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:jivtesh28@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-</div>
-
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Digital Philosophy
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20neural%20networks%20we%20trust,%20in%20transformers%20we%20build%20tomorrow&author=Neural%20Architect%20from%20India&bg_color=0D1117&border_color=6C63FF&text_color=A9A9A9&author_color=4ECDC4" />
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">🧠</td>
-      <td align="center"><b>Attention is all you need</b></td>
-    </tr>
-    <tr>
-      <td align="center">🤖</td>
-      <td align="center"><b>Multi-agents > Single models</b></td>
-    </tr>
-    <tr>
-      <td align="center">💎</td>
-      <td align="center"><b>Web3 + AI = Future</b></td>
-    </tr>
-    <tr>
-      <td align="center">🔮</td>
-      <td align="center"><b>Engineering the neural future</b></td>
-    </tr>
-    <tr>
-      <td align="center">🇮🇳</td>
-      <td align="center"><b>Building from India for the world</b></td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  
-  <!-- Professional Footer -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+the+neural+nexus!+🔮;Let's+architect+the+future+together+🚀🤖;Happy+coding+with+neural+networks!+💻;May+the+neural+force+be+with+you+⚡;See+you+in+the+digital+realm+🌐;Jai+Hind+🇮🇳+%7C+Code+On+💪" alt="Footer" />
-  
-  <!-- Professional Wave Footer -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900"/>
-  
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JIVTESH28&label=Neural%20Visitors&color=6C63FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/JIVTESH28?label=Neural%20Network&style=for-the-badge&color=4ECDC4&labelColor=0D1117" alt="Followers" />
+  <img src="https://ghchart.rshah.org/6C63FF/JIVTESH28" width="100%" alt="GitHub Contribution Chart"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50"/>
-  <br>
-  <sub><i>Powered by transformers, neural networks, innovation, and endless curiosity from India 🇮🇳</i></sub>
+  <sub><i>Architected with precision & passion from India 🇮🇳</i></sub>
 </div>
