@@ -205,7 +205,13 @@ console.log(`🚀 Neural System Initialized | Status: Pushing Boundaries`);
 <br>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/6C63FF/JIVTESH28" width="100%" alt="GitHub Contribution Matrix"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JIVTESH28&custom_title=Neural%20Network%20Contributions&bg_color=0D1117&color=6C63FF&line=4ECDC4&point=00FFFF&area_color=6C63FF&title_color=6C63FF&area=true&hide_border=true&radius=16" width="100%" alt="Neural Activity Graph"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JIVTESH28/JIVTESH28/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
 </div>
 
 <br>
