@@ -74,7 +74,7 @@ console.log("Ready to architect the future with neural networks! 🔮⚡🤖");
   
   <br><br>
   
-  <img src="https://streak-stats.demolab.com/?user=JIVTESH28&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=A9A9A9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A9A9A9" width="350"/>
+  <img src="https://raw.githubusercontent.com/JIVTESH28/JIVTESH28/main/profile-summary-card-output/tokyonight/3-stats.svg" width="350" alt="GitHub Stats"/>
   
   <br><br>
   
@@ -191,10 +191,10 @@ console.log("Ready to architect the future with neural networks! 🔮⚡🤖");
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=JIVTESH28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=4ECDC4&text_color=A9A9A9&ring_color=6C63FF&include_all_commits=true&count_private=true&border_radius=15"/>
+        <img src="https://raw.githubusercontent.com/JIVTESH28/JIVTESH28/main/profile-summary-card-output/tokyonight/3-stats.svg" width="100%" alt="GitHub Stats"/>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=JIVTESH28&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=A9A9A9&border_radius=15"/>
+        <img src="https://raw.githubusercontent.com/JIVTESH28/JIVTESH28/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="100%" alt="Top Languages"/>
       </td>
     </tr>
   </table>
