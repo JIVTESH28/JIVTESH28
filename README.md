@@ -77,13 +77,13 @@ console.log(`🚀 Neural System Initialized | Status: Pushing Boundaries`);
   <img src="https://img.shields.io/badge/Total%20Downloads-863-00C853?style=for-the-badge&logo=python&logoColor=white" alt="Total Downloads"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/badge/Monthly-288-FF6D00?style=for-the-badge&logo=download&logoColor=white" alt="Monthly Downloads"/>
+  <img src="https://img.shields.io/badge/Monthly-N/A-FF6D00?style=for-the-badge&logo=download&logoColor=white" alt="Monthly Downloads"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/badge/Weekly-31-AA00FF?style=for-the-badge&logo=download&logoColor=white" alt="Weekly Downloads"/>
+  <img src="https://img.shields.io/badge/Weekly-N/A-AA00FF?style=for-the-badge&logo=download&logoColor=white" alt="Weekly Downloads"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/badge/Daily-0-2979FF?style=for-the-badge&logo=download&logoColor=white" alt="Daily Downloads"/>
+  <img src="https://img.shields.io/badge/Daily-N/A-2979FF?style=for-the-badge&logo=download&logoColor=white" alt="Daily Downloads"/>
 </a>
 
 </div>
@@ -93,11 +93,11 @@ console.log(`🚀 Neural System Initialized | Status: Pushing Boundaries`);
 | 📊 Metric | 📈 Count |
 |:---:|:---:|
 | 🏆 **All-Time Downloads** | **863** |
-| 📅 **Last 30 Days** | **288** |
-| 📆 **Last 7 Days** | **31** |
-| 🕐 **Last 24 Hours** | **0** |
+| 📅 **Last 30 Days** | **N/A** |
+| 📆 **Last 7 Days** | **N/A** |
+| 🕐 **Last 24 Hours** | **N/A** |
 
-<sub>🤖 Auto-updated on August 18, 2026 at 11:19 PM IST via GitHub Actions</sub>
+<sub>🤖 Auto-updated on August 19, 2026 at 07:33 AM IST via GitHub Actions</sub>
 
 </div>
 
