@@ -66,45 +66,47 @@ console.log(`🚀 Neural System Initialized | Status: Pushing Boundaries`);
 > **DocArmor (Document Intelligence Gateway)** is a high-performance validation, ingestion security, and exact token counting engine. Built in Rust with native Python bindings via PyO3, DocArmor sits between raw document ingestion and downstream LLM/RAG pipelines to prevent system exploitation, Zip bombs, PII leaks, and unexpected API costs.
 
 <!-- DOCARMOR-STATS:START -->
-## 📦 DocArmor — Live PyPI Stats
+## 📦 DocArmor — PyPI Installs
 
 <div align="center">
 
 <a href="https://pypi.org/project/docarmor/">
   <img src="https://img.shields.io/pypi/v/docarmor?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI&color=3775A9" alt="PyPI Version"/>
 </a>
-<a href="https://pepy.tech/projects/docarmor">
-  <img src="https://img.shields.io/badge/Total%20Downloads-922-00C853?style=for-the-badge&logo=python&logoColor=white" alt="Total Downloads"/>
+<a href="https://pypistats.org/packages/docarmor">
+  <img src="https://img.shields.io/badge/Total%20Installs-2%2C940-00C853?style=for-the-badge&logo=python&logoColor=white" alt="Total Installs"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/badge/Monthly-N/A-FF6D00?style=for-the-badge&logo=download&logoColor=white" alt="Monthly Downloads"/>
+  <img src="https://img.shields.io/badge/Last%207%20Days-22-AA00FF?style=for-the-badge&logo=download&logoColor=white" alt="Last 7 Days"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/badge/Weekly-N/A-AA00FF?style=for-the-badge&logo=download&logoColor=white" alt="Weekly Downloads"/>
-</a>
-<a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/badge/Daily-N/A-2979FF?style=for-the-badge&logo=download&logoColor=white" alt="Daily Downloads"/>
+  <img src="https://img.shields.io/badge/Last%2024h-2-2979FF?style=for-the-badge&logo=download&logoColor=white" alt="Last 24 Hours"/>
 </a>
 
 </div>
 
 <div align="center">
 
-| 📊 Metric | 📈 Count |
-|:---:|:---:|
-| 🏆 **All-Time Downloads** | **922** |
-| 📅 **Last 30 Days** | **N/A** |
-| 📆 **Last 7 Days** | **N/A** |
-| 🕐 **Last 24 Hours** | **N/A** |
+| 📊 Metric | 📈 Installs |
+|:---|---:|
+| 🏆 **Total Installs** — all releases | **2,940** |
+| 📦 docarmor — since Aug 2, 2026 | 310 |
+| 🗃️ docgaurd — before the rename | 2,630 |
+| 📆 Last 7 days | 22 |
+| 🕐 Last 24 hours | 2 |
 
-<sub>🤖 Auto-updated on August 24, 2026 at 07:38 AM IST via GitHub Actions</sub>
+<sub><b>What counts as an install:</b> a download requested by a package manager such as <code>pip</code> — repeat installs and CI runs included. A further <b>5,490</b> requests came from automated services that clone the entire PyPI index; those are excluded above, since they fetch every release whether or not anyone wants it.</sub>
+
+<sub><b>Two package names, one project:</b> first published as <code>docgaurd</code> on Jun 2, 2026, then renamed to <code>docarmor</code> on Aug 2, 2026 and republished under a new PyPI account. The retired name kept serving installs until Aug 14, 2026. PyPI records download history per name and cannot merge the two, so the total above sums both.</sub>
+
+<sub>🤖 Auto-updated August 24, 2026 at 11:19 PM IST via GitHub Actions · data through Aug 23, 2026</sub>
 
 </div>
 
 <div align="center">
   <a href="https://github.com/JIVTESH28/docarmor"><img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://pypi.org/project/docarmor/"><img src="https://img.shields.io/badge/Install-pip_install_docarmor-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="Install"/></a>
-  <a href="https://pepy.tech/projects/docarmor"><img src="https://img.shields.io/badge/Analytics-pepy.tech-00C853?style=for-the-badge&logo=python&logoColor=white" alt="Analytics"/></a>
+  <a href="https://pypistats.org/packages/docarmor"><img src="https://img.shields.io/badge/Analytics-pypistats-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Analytics"/></a>
 </div>
 <!-- DOCARMOR-STATS:END -->
 
