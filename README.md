@@ -74,16 +74,16 @@ console.log(`🚀 Neural System Initialized | Status: Pushing Boundaries`);
   <img src="https://img.shields.io/pypi/v/docarmor?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI&color=3775A9" alt="PyPI Version"/>
 </a>
 <a href="https://pepy.tech/projects/docarmor">
-  <img src="https://img.shields.io/badge/Total%20Downloads-920-00C853?style=for-the-badge&logo=python&logoColor=white" alt="Total Downloads"/>
+  <img src="https://img.shields.io/badge/Total%20Downloads-922-00C853?style=for-the-badge&logo=python&logoColor=white" alt="Total Downloads"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/badge/Monthly-308-FF6D00?style=for-the-badge&logo=download&logoColor=white" alt="Monthly Downloads"/>
+  <img src="https://img.shields.io/badge/Monthly-N/A-FF6D00?style=for-the-badge&logo=download&logoColor=white" alt="Monthly Downloads"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/badge/Weekly-27-AA00FF?style=for-the-badge&logo=download&logoColor=white" alt="Weekly Downloads"/>
+  <img src="https://img.shields.io/badge/Weekly-N/A-AA00FF?style=for-the-badge&logo=download&logoColor=white" alt="Weekly Downloads"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/badge/Daily-1-2979FF?style=for-the-badge&logo=download&logoColor=white" alt="Daily Downloads"/>
+  <img src="https://img.shields.io/badge/Daily-N/A-2979FF?style=for-the-badge&logo=download&logoColor=white" alt="Daily Downloads"/>
 </a>
 
 </div>
@@ -92,12 +92,12 @@ console.log(`🚀 Neural System Initialized | Status: Pushing Boundaries`);
 
 | 📊 Metric | 📈 Count |
 |:---:|:---:|
-| 🏆 **All-Time Downloads** | **920** |
-| 📅 **Last 30 Days** | **308** |
-| 📆 **Last 7 Days** | **27** |
-| 🕐 **Last 24 Hours** | **1** |
+| 🏆 **All-Time Downloads** | **922** |
+| 📅 **Last 30 Days** | **N/A** |
+| 📆 **Last 7 Days** | **N/A** |
+| 🕐 **Last 24 Hours** | **N/A** |
 
-<sub>🤖 Auto-updated on August 23, 2026 at 07:40 AM IST via GitHub Actions</sub>
+<sub>🤖 Auto-updated on August 24, 2026 at 07:38 AM IST via GitHub Actions</sub>
 
 </div>
 
