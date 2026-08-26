@@ -77,10 +77,10 @@ console.log(`🚀 Neural System Initialized | Status: Pushing Boundaries`);
   <img src="https://img.shields.io/badge/Total%20Installs-2%2C942-00C853?style=for-the-badge&logo=python&logoColor=white" alt="Total Installs"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/badge/Last%207%20Days-23-AA00FF?style=for-the-badge&logo=download&logoColor=white" alt="Last 7 Days"/>
+  <img src="https://img.shields.io/badge/Last%207%20Days-9-AA00FF?style=for-the-badge&logo=download&logoColor=white" alt="Last 7 Days"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/badge/Last%2024h-1-2979FF?style=for-the-badge&logo=download&logoColor=white" alt="Last 24 Hours"/>
+  <img src="https://img.shields.io/badge/Last%2024h-0-2979FF?style=for-the-badge&logo=download&logoColor=white" alt="Last 24 Hours"/>
 </a>
 
 </div>
@@ -92,14 +92,14 @@ console.log(`🚀 Neural System Initialized | Status: Pushing Boundaries`);
 | 🏆 **Total Installs** — all releases | **2,942** |
 | 📦 docarmor — since Aug 2, 2026 | 311 |
 | 🗃️ docgaurd — before the rename | 2,631 |
-| 📆 Last 7 days | 23 |
-| 🕐 Last 24 hours | 1 |
+| 📆 Last 7 days | 9 |
+| 🕐 Last 24 hours | 0 |
 
-<sub><b>What counts as an install:</b> a download requested by a package manager such as <code>pip</code> — repeat installs and CI runs included. A further <b>5,504</b> requests came from automated services that clone the entire PyPI index; those are excluded above, since they fetch every release whether or not anyone wants it.</sub>
+<sub><b>What counts as an install:</b> a download requested by a package manager such as <code>pip</code> — repeat installs and CI runs included. A further <b>5,542</b> requests came from automated services that clone the entire PyPI index; those are excluded above, since they fetch every release whether or not anyone wants it.</sub>
 
 <sub><b>Two package names, one project:</b> first published as <code>docgaurd</code> on Jun 2, 2026, then renamed to <code>docarmor</code> on Aug 2, 2026 and republished under a new PyPI account. The retired name kept serving installs until Aug 24, 2026. PyPI records download history per name and cannot merge the two, so the total above sums both.</sub>
 
-<sub>🤖 Auto-updated August 25, 2026 at 07:34 AM IST via GitHub Actions · data through Aug 24, 2026</sub>
+<sub>🤖 Auto-updated August 26, 2026 at 07:40 AM IST via GitHub Actions · data through Aug 25, 2026</sub>
 
 </div>
 
