@@ -95,11 +95,11 @@ console.log(`🚀 Neural System Initialized | Status: Pushing Boundaries`);
 | 📆 Last 7 days | 4 |
 | 🕐 Last 24 hours | 0 |
 
-<sub><b>What counts as an install:</b> a download requested by a package manager such as <code>pip</code> — repeat installs and CI runs included. A further <b>5,543</b> requests came from automated services that clone the entire PyPI index; those are excluded above, since they fetch every release whether or not anyone wants it.</sub>
+<sub><b>What counts as an install:</b> a download requested by a package manager such as <code>pip</code> — repeat installs and CI runs included. A further <b>5,569</b> requests came from automated services that clone the entire PyPI index; those are excluded above, since they fetch every release whether or not anyone wants it.</sub>
 
 <sub><b>Two package names, one project:</b> first published as <code>docgaurd</code> on Jun 2, 2026, then renamed to <code>docarmor</code> on Aug 2, 2026 and republished under a new PyPI account. The retired name kept serving installs until Aug 26, 2026. PyPI records download history per name and cannot merge the two, so the total above sums both.</sub>
 
-<sub>🤖 Auto-updated August 27, 2026 at 03:40 PM IST via GitHub Actions · data through Aug 26, 2026</sub>
+<sub>🤖 Auto-updated August 28, 2026 at 05:11 PM IST via GitHub Actions · data through Aug 27, 2026</sub>
 
 </div>
 
