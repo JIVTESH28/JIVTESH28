@@ -99,7 +99,7 @@ console.log(`🚀 Neural System Initialized | Status: Pushing Boundaries`);
 
 <sub><b>Two package names, one project:</b> first published as <code>docgaurd</code> on Jun 2, 2026, then renamed to <code>docarmor</code> on Aug 2, 2026 and republished under a new PyPI account. The retired name kept serving installs until Aug 26, 2026. PyPI records download history per name and cannot merge the two, so the total above sums both.</sub>
 
-<sub>🤖 Auto-updated August 30, 2026 at 12:59 AM IST via GitHub Actions · data through Aug 28, 2026</sub>
+<sub>🤖 Auto-updated August 30, 2026 at 01:01 AM IST via GitHub Actions · data through Aug 28, 2026</sub>
 
 </div>
 
@@ -195,10 +195,10 @@ console.log(`🚀 Neural System Initialized | Status: Pushing Boundaries`);
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=JIVTESH28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats"/>
+        <img src="https://raw.githubusercontent.com/JIVTESH28/JIVTESH28/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="100%" alt="Most Commit Language"/>
       </td>
       <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/JIVTESH28/JIVTESH28/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="100%" alt="Top Languages"/>
+        <img src="https://raw.githubusercontent.com/JIVTESH28/JIVTESH28/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="100%" alt="Top Languages by Repo"/>
       </td>
     </tr>
   </table>
@@ -207,7 +207,7 @@ console.log(`🚀 Neural System Initialized | Status: Pushing Boundaries`);
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JIVTESH28&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Contribution Streak"/>
+  <img src="https://raw.githubusercontent.com/JIVTESH28/JIVTESH28/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="100%" alt="Productive Time"/>
 </div>
 
 <br>
