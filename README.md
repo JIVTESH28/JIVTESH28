@@ -204,13 +204,7 @@ console.log(`🚀 Neural System Initialized | Status: Pushing Boundaries`);
   </table>
 </div>
 
-<br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JIVTESH28/JIVTESH28/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="100%" alt="Productive Time"/>
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/JIVTESH28/JIVTESH28/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
