@@ -74,13 +74,13 @@ console.log(`🚀 Neural System Initialized | Status: Pushing Boundaries`);
   <img src="https://img.shields.io/pypi/v/docarmor?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI&color=3775A9" alt="PyPI Version"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/badge/Total%20Installs-3%2C537-00C853?style=for-the-badge&logo=python&logoColor=white" alt="Total Installs"/>
+  <img src="https://img.shields.io/badge/Total%20Installs-3%2C553-00C853?style=for-the-badge&logo=python&logoColor=white" alt="Total Installs"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/badge/Last%207%20Days-162-AA00FF?style=for-the-badge&logo=download&logoColor=white" alt="Last 7 Days"/>
+  <img src="https://img.shields.io/badge/Last%207%20Days-154-AA00FF?style=for-the-badge&logo=download&logoColor=white" alt="Last 7 Days"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/badge/Last%2024h-35-2979FF?style=for-the-badge&logo=download&logoColor=white" alt="Last 24 Hours"/>
+  <img src="https://img.shields.io/badge/Last%2024h-16-2979FF?style=for-the-badge&logo=download&logoColor=white" alt="Last 24 Hours"/>
 </a>
 
 </div>
@@ -89,18 +89,18 @@ console.log(`🚀 Neural System Initialized | Status: Pushing Boundaries`);
 
 | 📊 Metric | 📈 Installs |
 |:---|---:|
-| 🏆 **Total Installs** — all releases | **3,537** |
-| 📦 docarmor — since Aug 2, 2026 | 902 |
+| 🏆 **Total Installs** — all releases | **3,553** |
+| 📦 docarmor — since Aug 2, 2026 | 918 |
 | 🗃️ docgaurd — before the rename | 2,635 |
-| 📅 Last 30 days | 660 |
-| 📆 Last 7 days | 162 |
-| 🕐 Last 24 hours | 35 |
+| 📅 Last 30 days | 674 |
+| 📆 Last 7 days | 154 |
+| 🕐 Last 24 hours | 16 |
 
-<sub><b>What counts as an install:</b> a download requested by a package manager such as <code>pip</code> — repeat installs and CI runs included. A further <b>6,761</b> requests came from automated services that clone the entire PyPI index; those are excluded above, since they fetch every release whether or not anyone wants it.</sub>
+<sub><b>What counts as an install:</b> a download requested by a package manager such as <code>pip</code> — repeat installs and CI runs included. A further <b>6,782</b> requests came from automated services that clone the entire PyPI index; those are excluded above, since they fetch every release whether or not anyone wants it.</sub>
 
 <sub><b>Two package names, one project:</b> first published as <code>docgaurd</code> on Jun 2, 2026, then renamed to <code>docarmor</code> on Aug 2, 2026 and republished under a new PyPI account. The retired name kept serving installs until Sep 5, 2026. PyPI records download history per name and cannot merge the two, so the total above sums both.</sub>
 
-<sub>🤖 Auto-updated September 06, 2026 at 10:29 AM IST via GitHub Actions · data through Sep 5, 2026</sub>
+<sub>🤖 Auto-updated September 07, 2026 at 10:36 AM IST via GitHub Actions · data through Sep 6, 2026</sub>
 
 </div>
 
