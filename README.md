@@ -77,7 +77,7 @@ console.log(`🚀 Neural System Initialized | Status: Pushing Boundaries`);
   <img src="https://img.shields.io/badge/Total%20Installs-4%2C691-00C853?style=for-the-badge&logo=python&logoColor=white" alt="Total Installs"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/badge/Last%207%20Days-9-AA00FF?style=for-the-badge&logo=download&logoColor=white" alt="Last 7 Days"/>
+  <img src="https://img.shields.io/badge/Last%207%20Days-7-AA00FF?style=for-the-badge&logo=download&logoColor=white" alt="Last 7 Days"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
   <img src="https://img.shields.io/badge/Last%2024h-0-2979FF?style=for-the-badge&logo=download&logoColor=white" alt="Last 24 Hours"/>
@@ -92,15 +92,15 @@ console.log(`🚀 Neural System Initialized | Status: Pushing Boundaries`);
 | 🏆 **Total Installs** — all releases | **4,691** |
 | 📦 docarmor — since Aug 2, 2026 | 2,004 |
 | 🗃️ docgaurd — before the rename | 2,687 |
-| 📅 Last 30 days | 165 |
-| 📆 Last 7 days | 9 |
+| 📅 Last 30 days | 163 |
+| 📆 Last 7 days | 7 |
 | 🕐 Last 24 hours | 0 |
 
-<sub><b>What counts as an install:</b> a download requested by a package manager such as <code>pip</code> — repeat installs and CI runs included. A further <b>9,623</b> requests came from automated services that clone the entire PyPI index; those are excluded above, since they fetch every release whether or not anyone wants it.</sub>
+<sub><b>What counts as an install:</b> a download requested by a package manager such as <code>pip</code> — repeat installs and CI runs included. A further <b>9,629</b> requests came from automated services that clone the entire PyPI index; those are excluded above, since they fetch every release whether or not anyone wants it.</sub>
 
 <sub><b>Two package names, one project:</b> first published as <code>docgaurd</code> on Jun 2, 2026, then renamed to <code>docarmor</code> on Aug 2, 2026 and republished under a new PyPI account. The retired name kept serving installs until Oct 24, 2026. PyPI records download history per name and cannot merge the two, so the total above sums both.</sub>
 
-<sub>🤖 Auto-updated October 25, 2026 at 10:38 AM IST via GitHub Actions · data through Oct 24, 2026</sub>
+<sub>🤖 Auto-updated October 26, 2026 at 10:40 AM IST via GitHub Actions · data through Oct 25, 2026</sub>
 
 </div>
 
