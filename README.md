@@ -80,7 +80,7 @@ console.log(`🚀 Neural System Initialized | Status: Pushing Boundaries`);
   <img src="https://img.shields.io/badge/Last%207%20Days-8-AA00FF?style=for-the-badge&logo=download&logoColor=white" alt="Last 7 Days"/>
 </a>
 <a href="https://pypistats.org/packages/docarmor">
-  <img src="https://img.shields.io/badge/Last%2024h-1-2979FF?style=for-the-badge&logo=download&logoColor=white" alt="Last 24 Hours"/>
+  <img src="https://img.shields.io/badge/Last%2024h-0-2979FF?style=for-the-badge&logo=download&logoColor=white" alt="Last 24 Hours"/>
 </a>
 
 </div>
@@ -92,15 +92,15 @@ console.log(`🚀 Neural System Initialized | Status: Pushing Boundaries`);
 | 🏆 **Total Installs** — all releases | **4,705** |
 | 📦 docarmor — since Aug 2, 2026 | 2,014 |
 | 🗃️ docgaurd — before the rename | 2,691 |
-| 📅 Last 30 days | 152 |
+| 📅 Last 30 days | 148 |
 | 📆 Last 7 days | 8 |
-| 🕐 Last 24 hours | 1 |
+| 🕐 Last 24 hours | 0 |
 
-<sub><b>What counts as an install:</b> a download requested by a package manager such as <code>pip</code> — repeat installs and CI runs included. A further <b>9,903</b> requests came from automated services that clone the entire PyPI index; those are excluded above, since they fetch every release whether or not anyone wants it.</sub>
+<sub><b>What counts as an install:</b> a download requested by a package manager such as <code>pip</code> — repeat installs and CI runs included. A further <b>9,955</b> requests came from automated services that clone the entire PyPI index; those are excluded above, since they fetch every release whether or not anyone wants it.</sub>
 
 <sub><b>Two package names, one project:</b> first published as <code>docgaurd</code> on Jun 2, 2026, then renamed to <code>docarmor</code> on Aug 2, 2026 and republished under a new PyPI account. The retired name kept serving installs until Nov 1, 2026. PyPI records download history per name and cannot merge the two, so the total above sums both.</sub>
 
-<sub>🤖 Auto-updated November 06, 2026 at 12:43 PM IST via GitHub Actions · data through Nov 5, 2026</sub>
+<sub>🤖 Auto-updated November 07, 2026 at 11:57 AM IST via GitHub Actions · data through Nov 6, 2026</sub>
 
 </div>
 
