@@ -92,15 +92,15 @@ console.log(`🚀 Neural System Initialized | Status: Pushing Boundaries`);
 | 🏆 **Total Installs** — all releases | **4,728** |
 | 📦 docarmor — since Aug 2, 2026 | 2,027 |
 | 🗃️ docgaurd — before the rename | 2,701 |
-| 📅 Last 30 days | 90 |
+| 📅 Last 30 days | 89 |
 | 📆 Last 7 days | 13 |
 | 🕐 Last 24 hours | 0 |
 
-<sub><b>What counts as an install:</b> a download requested by a package manager such as <code>pip</code> — repeat installs and CI runs included. A further <b>10,137</b> requests came from automated services that clone the entire PyPI index; those are excluded above, since they fetch every release whether or not anyone wants it.</sub>
+<sub><b>What counts as an install:</b> a download requested by a package manager such as <code>pip</code> — repeat installs and CI runs included. A further <b>10,159</b> requests came from automated services that clone the entire PyPI index; those are excluded above, since they fetch every release whether or not anyone wants it.</sub>
 
 <sub><b>Two package names, one project:</b> first published as <code>docgaurd</code> on Jun 2, 2026, then renamed to <code>docarmor</code> on Aug 2, 2026 and republished under a new PyPI account. The retired name kept serving installs until Nov 11, 2026. PyPI records download history per name and cannot merge the two, so the total above sums both.</sub>
 
-<sub>🤖 Auto-updated November 13, 2026 at 12:36 PM IST via GitHub Actions · data through Nov 12, 2026</sub>
+<sub>🤖 Auto-updated November 14, 2026 at 12:25 PM IST via GitHub Actions · data through Nov 13, 2026</sub>
 
 </div>
 
